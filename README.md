@@ -62,7 +62,7 @@ gcc nome_do_arquivo.c -o jogo
 ## Estrutura do Repositório
 
 /inventario_desafio
-- nivel_novato.c
--  nivel_aventureiro.c
--  nivel_mestre.c
+- war_novato.c
+- war_aventureiro.c
+- war_mestre.c
 - README.md
